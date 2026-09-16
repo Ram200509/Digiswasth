@@ -1,0 +1,801 @@
+bp_systolic,bp_diastolic,sugar,oxygen,weight,temperature,previous_diagnosis,sugar_flag,bp_flag,fever_flag,oxygen_flag,focus
+166,57,66,99,80,98.3,Dengue,low,high,no,normal,infectious
+179,56,233,99,56,100.9,None,high,high,yes,normal,metabolic
+88,55,115,91,109,101.0,Hypertension,normal,high,yes,low,respiratory
+110,95,226,99,98,98.2,Typhoid,high,high,no,normal,metabolic
+120,101,61,100,65,101.7,Skin allergy,low,high,yes,normal,infectious
+120,59,115,100,88,97.3,HIV,normal,low,no,normal,general
+97,72,276,93,78,102.6,Diabetes,high,normal,yes,low,respiratory
+153,57,156,89,82,102.7,Typhoid,normal,high,yes,low,respiratory
+131,86,109,99,53,96.8,Chikungunya,normal,normal,no,normal,infectious
+122,55,278,91,57,99.4,Diabetes,high,low,no,low,respiratory
+166,103,153,90,92,99.2,Jaundice,normal,high,no,low,respiratory
+174,109,234,98,54,101.1,Dengue,high,high,yes,normal,metabolic
+153,96,122,90,104,99.3,Hypertension,normal,high,no,low,respiratory
+113,93,143,100,52,98.2,None,normal,high,no,normal,general
+125,75,128,89,72,103.3,Typhoid,normal,normal,yes,low,respiratory
+176,70,114,98,108,99.5,Diabetes,high,high,yes,normal,metabolic
+103,66,95,91,78,102.1,HIV,normal,normal,yes,low,respiratory
+159,75,152,91,62,100.3,Malaria,normal,high,yes,low,respiratory
+91,105,88,90,65,102.4,HIV,normal,high,yes,low,respiratory
+161,54,158,94,104,100.5,Hypertension,normal,high,yes,low,respiratory
+86,93,244,89,79,102.3,Skin allergy,high,high,yes,low,respiratory
+99,68,171,90,103,96.5,Jaundice,normal,normal,no,low,respiratory
+149,98,105,96,58,103.0,Jaundice,normal,high,yes,normal,infectious
+166,82,215,91,64,99.3,Dengue,high,high,no,low,respiratory
+154,99,195,88,86,100.2,Malaria,high,high,yes,low,respiratory
+131,106,272,100,84,98.3,Chikungunya,high,high,no,normal,metabolic
+157,110,80,89,107,102.6,Hypertension,normal,high,yes,low,respiratory
+101,58,228,95,66,98.5,Typhoid,high,low,no,normal,metabolic
+139,63,198,100,70,101.8,HIV,high,normal,yes,normal,metabolic
+170,91,155,95,102,97.4,Chikungunya,normal,high,no,normal,infectious
+93,71,65,97,74,100.9,None,low,normal,yes,normal,infectious
+94,95,221,88,74,97.0,None,high,high,no,low,respiratory
+127,54,191,91,80,101.5,Chikungunya,high,low,yes,low,respiratory
+154,58,245,97,105,98.3,Diabetes,high,high,no,normal,metabolic
+137,62,84,89,100,99.2,HIV,normal,normal,no,low,respiratory
+144,105,246,88,57,97.0,Skin allergy,high,high,no,low,respiratory
+98,65,109,91,102,97.6,Dengue,normal,normal,no,low,respiratory
+120,79,123,89,101,102.6,Hypertension,normal,high,yes,low,respiratory
+97,53,226,96,46,103.8,Chikungunya,high,low,yes,normal,metabolic
+106,76,184,95,72,103.0,None,high,normal,yes,normal,metabolic
+106,74,60,94,78,103.4,Diabetes,high,normal,yes,low,respiratory
+121,77,238,99,107,97.7,Jaundice,high,normal,no,normal,metabolic
+112,53,208,99,52,102.1,None,high,low,yes,normal,metabolic
+91,87,182,96,65,96.9,Hypertension,high,high,no,normal,metabolic
+95,104,107,89,53,101.6,Chikungunya,normal,high,yes,low,respiratory
+136,57,205,91,50,101.1,HIV,high,low,yes,low,respiratory
+169,87,204,96,85,103.5,Chikungunya,high,high,yes,normal,metabolic
+170,95,140,91,78,99.5,Jaundice,normal,high,yes,low,respiratory
+143,70,252,89,46,99.9,Typhoid,high,high,yes,low,respiratory
+97,54,197,91,109,98.5,Skin allergy,high,low,no,low,respiratory
+93,106,122,93,81,97.7,Hypertension,normal,high,no,low,respiratory
+175,69,216,100,46,101.5,Hypertension,high,high,yes,normal,metabolic
+123,109,229,89,62,98.5,Malaria,high,high,no,low,respiratory
+180,85,99,92,81,101.0,Skin allergy,normal,high,yes,low,respiratory
+111,93,222,92,109,100.2,None,high,high,yes,low,respiratory
+96,90,168,92,50,96.5,Dengue,normal,high,no,low,respiratory
+166,66,101,99,101,100.6,HIV,normal,high,yes,normal,infectious
+156,50,88,89,64,100.6,Skin allergy,normal,high,yes,low,respiratory
+159,85,97,94,61,96.8,Skin allergy,normal,high,no,low,respiratory
+90,107,151,91,76,101.5,Skin allergy,normal,high,yes,low,respiratory
+156,106,164,97,64,103.4,Chikungunya,normal,high,yes,normal,infectious
+105,101,267,90,97,96.7,Skin allergy,high,high,no,low,respiratory
+137,101,231,99,76,98.5,Malaria,high,high,no,normal,metabolic
+133,105,69,95,73,98.0,Diabetes,high,high,no,normal,metabolic
+129,69,270,100,74,98.2,Chikungunya,high,normal,no,normal,metabolic
+136,71,131,89,80,99.1,Hypertension,normal,high,no,low,respiratory
+136,93,275,96,87,103.5,Malaria,high,high,yes,normal,metabolic
+118,61,208,92,49,97.3,HIV,high,normal,no,low,respiratory
+129,96,261,93,100,101.0,Hypertension,high,high,yes,low,respiratory
+99,74,207,91,77,96.8,HIV,high,normal,no,low,respiratory
+85,83,266,96,70,99.2,Malaria,high,low,no,normal,metabolic
+170,108,144,97,85,101.5,Malaria,normal,high,yes,normal,infectious
+177,107,136,96,84,101.5,Skin allergy,normal,high,yes,normal,infectious
+136,94,135,96,61,97.9,HIV,normal,high,no,normal,general
+171,97,104,97,83,99.5,None,normal,high,yes,normal,infectious
+123,68,113,94,86,100.0,Diabetes,high,normal,yes,low,respiratory
+171,63,190,95,66,101.4,Jaundice,high,high,yes,normal,metabolic
+150,92,222,97,87,97.2,Chikungunya,high,high,no,normal,metabolic
+171,69,117,100,70,97.6,None,normal,high,no,normal,general
+116,80,216,100,54,99.9,Typhoid,high,normal,yes,normal,metabolic
+109,95,238,94,108,99.5,Dengue,high,high,yes,low,respiratory
+168,94,61,100,58,102.3,Chikungunya,low,high,yes,normal,infectious
+107,101,238,96,104,96.9,Chikungunya,high,high,no,normal,metabolic
+100,79,94,100,104,101.5,Hypertension,normal,high,yes,normal,infectious
+161,70,253,95,109,99.7,Hypertension,high,high,yes,normal,metabolic
+142,107,100,99,105,99.9,Chikungunya,normal,high,yes,normal,infectious
+166,67,256,100,107,101.2,Jaundice,high,high,yes,normal,metabolic
+141,54,242,92,75,98.5,Skin allergy,high,high,no,low,respiratory
+154,55,95,90,74,99.4,Dengue,normal,high,no,low,respiratory
+175,63,76,94,97,99.0,Diabetes,high,high,no,low,respiratory
+138,53,112,94,94,103.3,Typhoid,normal,low,yes,low,respiratory
+174,51,279,100,93,100.1,Skin allergy,high,high,yes,normal,metabolic
+123,98,159,94,73,100.2,Jaundice,normal,high,yes,low,respiratory
+140,81,67,94,88,101.5,HIV,low,high,yes,low,respiratory
+177,60,275,95,61,103.9,Hypertension,high,high,yes,normal,metabolic
+88,108,160,97,48,97.1,HIV,normal,high,no,normal,general
+102,105,178,90,51,98.5,Skin allergy,normal,high,no,low,respiratory
+112,79,143,93,93,98.6,HIV,normal,normal,no,low,respiratory
+117,103,80,95,47,102.1,None,normal,high,yes,normal,infectious
+129,64,226,89,50,102.2,Chikungunya,high,normal,yes,low,respiratory
+110,103,65,97,64,98.3,Diabetes,high,high,no,normal,metabolic
+170,57,204,91,104,101.7,Skin allergy,high,high,yes,low,respiratory
+106,88,215,99,59,102.3,Dengue,high,normal,yes,normal,metabolic
+124,56,208,88,84,100.8,HIV,high,low,yes,low,respiratory
+135,110,243,91,54,100.9,Chikungunya,high,high,yes,low,respiratory
+98,94,257,92,60,102.5,Typhoid,high,high,yes,low,respiratory
+90,72,196,94,92,97.0,Skin allergy,high,low,no,low,respiratory
+86,104,167,95,58,99.8,Skin allergy,normal,high,yes,normal,infectious
+166,107,272,95,64,99.8,Hypertension,high,high,yes,normal,metabolic
+168,67,217,100,106,100.0,Typhoid,high,high,yes,normal,metabolic
+119,70,278,91,56,98.6,Diabetes,high,normal,no,low,respiratory
+116,98,178,97,93,99.0,Diabetes,high,high,no,normal,metabolic
+126,61,184,91,90,102.5,Skin allergy,high,normal,yes,low,respiratory
+120,106,212,99,80,100.7,Hypertension,high,high,yes,normal,metabolic
+109,55,121,99,97,100.2,Chikungunya,normal,low,yes,normal,infectious
+173,80,225,99,107,99.9,None,high,high,yes,normal,metabolic
+96,68,116,94,76,98.8,Typhoid,normal,normal,no,low,respiratory
+132,80,201,96,89,99.7,Hypertension,high,high,yes,normal,metabolic
+127,72,239,95,79,98.8,Chikungunya,high,normal,no,normal,metabolic
+100,96,109,93,60,102.1,Dengue,normal,high,yes,low,respiratory
+109,63,249,95,80,101.9,Hypertension,high,high,yes,normal,metabolic
+161,68,85,91,82,98.2,Dengue,normal,high,no,low,respiratory
+123,50,241,96,61,98.6,None,high,low,no,normal,metabolic
+155,68,238,90,107,97.3,None,high,high,no,low,respiratory
+158,68,180,95,101,99.1,None,high,high,no,normal,metabolic
+117,110,280,95,59,102.7,HIV,high,high,yes,normal,metabolic
+147,54,207,98,51,97.6,Typhoid,high,high,no,normal,metabolic
+123,55,123,89,98,101.0,Typhoid,normal,low,yes,low,respiratory
+113,99,193,94,102,103.3,Jaundice,high,high,yes,low,respiratory
+160,77,138,97,52,101.1,Malaria,normal,high,yes,normal,infectious
+111,90,114,92,55,97.7,Dengue,normal,high,no,low,respiratory
+155,54,100,88,97,99.9,Typhoid,normal,high,yes,low,respiratory
+145,68,68,91,81,101.8,Diabetes,high,high,yes,low,respiratory
+94,93,119,92,70,99.7,Hypertension,normal,high,yes,low,respiratory
+113,91,98,92,63,97.0,Dengue,normal,high,no,low,respiratory
+124,88,251,97,81,99.8,Diabetes,high,normal,yes,normal,metabolic
+173,69,239,94,79,100.3,Diabetes,high,high,yes,low,respiratory
+141,55,213,88,100,102.0,Typhoid,high,high,yes,low,respiratory
+117,51,83,91,47,104.0,Jaundice,normal,low,yes,low,respiratory
+158,52,255,100,67,100.0,Diabetes,high,high,yes,normal,metabolic
+120,61,209,94,107,103.8,Diabetes,high,normal,yes,low,respiratory
+129,76,145,93,58,102.9,Skin allergy,normal,normal,yes,low,respiratory
+137,94,186,92,96,102.6,Hypertension,high,high,yes,low,respiratory
+89,79,82,93,77,98.9,HIV,normal,low,no,low,respiratory
+150,102,60,98,104,99.6,Chikungunya,low,high,yes,normal,infectious
+151,73,219,100,108,101.2,None,high,high,yes,normal,metabolic
+111,67,200,90,81,99.8,Diabetes,high,normal,yes,low,respiratory
+100,51,221,97,75,101.8,Jaundice,high,low,yes,normal,metabolic
+155,50,201,94,56,98.2,Malaria,high,high,no,low,respiratory
+144,110,90,98,64,100.2,Jaundice,normal,high,yes,normal,infectious
+150,95,129,94,106,103.9,Chikungunya,normal,high,yes,low,respiratory
+143,85,97,94,69,103.4,Hypertension,normal,high,yes,low,respiratory
+180,106,94,89,80,102.3,HIV,normal,high,yes,low,respiratory
+128,109,261,96,79,102.7,Jaundice,high,high,yes,normal,metabolic
+177,69,274,97,107,103.0,Diabetes,high,high,yes,normal,metabolic
+153,80,148,93,93,99.9,Skin allergy,normal,high,yes,low,respiratory
+109,94,121,97,94,98.3,HIV,normal,high,no,normal,general
+90,70,250,95,93,99.4,Dengue,high,low,no,normal,metabolic
+148,52,92,96,87,103.0,Diabetes,high,high,yes,normal,metabolic
+97,83,176,88,63,99.6,Dengue,normal,normal,yes,low,respiratory
+94,80,260,92,88,101.2,HIV,high,normal,yes,low,respiratory
+168,55,278,93,93,103.7,Diabetes,high,high,yes,low,respiratory
+154,52,218,89,75,101.2,Jaundice,high,high,yes,low,respiratory
+114,97,83,94,57,102.2,Malaria,normal,high,yes,low,respiratory
+141,60,237,92,48,96.8,None,high,high,no,low,respiratory
+122,72,155,94,63,98.3,HIV,normal,normal,no,low,respiratory
+157,93,262,90,66,97.8,Typhoid,high,high,no,low,respiratory
+133,89,234,91,108,103.3,Dengue,high,normal,yes,low,respiratory
+114,79,223,92,103,98.4,None,high,normal,no,low,respiratory
+144,107,133,98,65,97.1,Skin allergy,normal,high,no,normal,general
+160,69,223,94,77,99.9,Jaundice,high,high,yes,low,respiratory
+110,74,278,95,58,98.3,Typhoid,high,normal,no,normal,metabolic
+130,86,135,99,82,96.7,HIV,normal,normal,no,normal,general
+120,50,204,98,51,103.3,Diabetes,high,low,yes,normal,metabolic
+121,99,264,91,90,98.1,Chikungunya,high,high,no,low,respiratory
+164,66,233,100,62,101.2,None,high,high,yes,normal,metabolic
+124,100,172,88,91,102.0,Malaria,normal,high,yes,low,respiratory
+122,70,251,94,67,98.0,Hypertension,high,high,no,low,respiratory
+131,83,188,92,66,98.4,Diabetes,high,normal,no,low,respiratory
+122,97,146,100,59,100.0,Malaria,normal,high,yes,normal,infectious
+103,98,117,98,95,103.8,Hypertension,normal,high,yes,normal,infectious
+131,55,262,94,46,98.5,Malaria,high,low,no,low,respiratory
+143,73,232,99,78,100.9,Skin allergy,high,high,yes,normal,metabolic
+98,93,119,95,48,101.1,Hypertension,normal,high,yes,normal,infectious
+126,108,216,91,53,101.3,Diabetes,high,high,yes,low,respiratory
+174,69,226,94,59,97.5,None,high,high,no,low,respiratory
+123,81,89,89,75,103.2,Dengue,normal,normal,yes,low,respiratory
+134,79,154,98,98,100.9,Dengue,normal,normal,yes,normal,infectious
+138,91,85,95,97,103.5,Jaundice,normal,high,yes,normal,infectious
+89,94,154,91,101,99.8,Chikungunya,normal,high,yes,low,respiratory
+131,56,235,93,90,97.0,Jaundice,high,low,no,low,respiratory
+109,57,277,95,56,101.5,Typhoid,high,low,yes,normal,metabolic
+87,53,261,93,76,103.9,Typhoid,high,low,yes,low,respiratory
+111,54,272,100,71,100.9,Chikungunya,high,low,yes,normal,metabolic
+127,99,97,100,45,98.6,Dengue,normal,high,no,normal,infectious
+101,84,124,100,67,97.3,None,normal,normal,no,normal,general
+101,50,151,100,75,100.9,None,normal,low,yes,normal,infectious
+107,66,73,90,98,100.4,Malaria,normal,normal,yes,low,respiratory
+145,78,259,93,110,101.0,Diabetes,high,high,yes,low,respiratory
+149,64,217,88,83,99.9,None,high,high,yes,low,respiratory
+92,80,276,94,99,101.6,Diabetes,high,normal,yes,low,respiratory
+176,108,173,89,55,98.9,Dengue,normal,high,no,low,respiratory
+93,58,130,97,86,99.4,Typhoid,normal,low,no,normal,infectious
+152,68,176,96,100,97.2,Malaria,normal,high,no,normal,infectious
+168,91,256,96,72,99.7,Chikungunya,high,high,yes,normal,metabolic
+137,71,271,95,96,99.6,Malaria,high,normal,yes,normal,metabolic
+125,77,140,98,77,99.3,Dengue,normal,normal,no,normal,infectious
+172,109,181,89,56,102.7,Malaria,high,high,yes,low,respiratory
+140,56,250,99,92,102.6,Hypertension,high,high,yes,normal,metabolic
+92,87,203,96,87,101.5,HIV,high,normal,yes,normal,metabolic
+130,105,230,100,99,103.0,None,high,high,yes,normal,metabolic
+121,88,139,93,58,100.8,Chikungunya,normal,normal,yes,low,respiratory
+104,92,183,91,58,99.1,Hypertension,high,high,no,low,respiratory
+132,57,255,92,73,102.6,Hypertension,high,high,yes,low,respiratory
+164,89,232,98,48,101.1,Jaundice,high,high,yes,normal,metabolic
+88,61,129,99,84,103.4,Skin allergy,normal,low,yes,normal,infectious
+85,61,96,97,96,97.0,None,normal,low,no,normal,general
+96,97,195,91,93,99.6,Skin allergy,high,high,yes,low,respiratory
+105,73,139,99,86,102.3,Typhoid,normal,normal,yes,normal,infectious
+161,55,73,90,65,102.2,None,normal,high,yes,low,respiratory
+171,55,129,95,99,100.1,Diabetes,high,high,yes,normal,metabolic
+138,67,115,100,110,97.4,HIV,normal,normal,no,normal,general
+99,68,233,98,107,100.5,Jaundice,high,normal,yes,normal,metabolic
+90,64,161,97,52,96.6,Jaundice,normal,low,no,normal,general
+112,99,95,100,77,98.7,Malaria,normal,high,no,normal,infectious
+85,81,251,94,67,97.5,Hypertension,high,high,no,low,respiratory
+175,64,188,96,90,97.0,None,high,high,no,normal,metabolic
+140,51,177,89,85,100.8,Typhoid,normal,high,yes,low,respiratory
+136,95,223,94,82,97.4,None,high,high,no,low,respiratory
+126,60,265,97,103,102.7,Skin allergy,high,low,yes,normal,metabolic
+96,77,276,89,76,99.8,HIV,high,normal,yes,low,respiratory
+152,55,161,92,88,98.2,Dengue,normal,high,no,low,respiratory
+94,82,222,89,110,98.0,Skin allergy,high,normal,no,low,respiratory
+129,96,269,98,63,98.3,Dengue,high,high,no,normal,metabolic
+117,62,104,97,64,102.2,Malaria,normal,normal,yes,normal,infectious
+107,110,257,98,108,100.0,Typhoid,high,high,yes,normal,metabolic
+159,78,234,97,86,103.0,Skin allergy,high,high,yes,normal,metabolic
+104,78,77,95,101,101.2,Jaundice,normal,normal,yes,normal,infectious
+160,53,150,96,54,98.8,Diabetes,high,high,no,normal,metabolic
+89,53,154,92,54,101.3,Malaria,normal,low,yes,low,respiratory
+163,88,189,94,104,100.9,None,high,high,yes,low,respiratory
+142,108,267,97,69,98.9,Diabetes,high,high,no,normal,metabolic
+149,59,75,95,58,102.6,Skin allergy,normal,high,yes,normal,infectious
+176,55,189,98,67,96.8,Diabetes,high,high,no,normal,metabolic
+141,83,193,97,65,99.2,Jaundice,high,high,no,normal,metabolic
+134,76,258,93,51,102.4,Skin allergy,high,normal,yes,low,respiratory
+93,71,84,96,94,98.6,Typhoid,normal,normal,no,normal,infectious
+104,71,80,97,63,103.4,Jaundice,normal,normal,yes,normal,infectious
+168,94,229,94,61,101.0,Malaria,high,high,yes,low,respiratory
+124,85,156,98,87,102.6,Hypertension,normal,high,yes,normal,infectious
+96,91,231,94,110,99.2,Skin allergy,high,high,no,low,respiratory
+124,61,114,93,107,97.9,Dengue,normal,normal,no,low,respiratory
+104,54,135,100,57,100.3,Hypertension,normal,high,yes,normal,infectious
+179,106,194,88,88,103.1,Typhoid,high,high,yes,low,respiratory
+101,88,156,90,65,97.9,Typhoid,normal,normal,no,low,respiratory
+106,96,172,88,97,99.2,Chikungunya,normal,high,no,low,respiratory
+141,89,132,100,102,98.3,Chikungunya,normal,high,no,normal,infectious
+124,101,260,95,69,99.3,Typhoid,high,high,no,normal,metabolic
+141,79,256,92,93,100.3,HIV,high,high,yes,low,respiratory
+105,102,111,100,62,103.0,None,normal,high,yes,normal,infectious
+167,80,155,96,58,101.8,Hypertension,normal,high,yes,normal,infectious
+100,68,81,100,65,98.5,Hypertension,normal,high,no,normal,general
+103,103,171,89,73,102.6,Skin allergy,normal,high,yes,low,respiratory
+88,76,73,94,109,99.3,HIV,normal,low,no,low,respiratory
+95,73,117,88,85,103.5,Skin allergy,normal,normal,yes,low,respiratory
+103,58,69,92,105,101.7,Dengue,low,low,yes,low,respiratory
+175,80,174,97,45,103.3,None,normal,high,yes,normal,infectious
+117,63,273,90,99,97.3,Jaundice,high,normal,no,low,respiratory
+115,69,91,88,75,99.6,Typhoid,normal,normal,yes,low,respiratory
+143,54,88,95,47,101.2,Typhoid,normal,high,yes,normal,infectious
+115,95,96,92,99,96.5,Skin allergy,normal,high,no,low,respiratory
+115,86,166,90,55,100.4,Skin allergy,normal,normal,yes,low,respiratory
+93,83,199,96,109,100.7,HIV,high,normal,yes,normal,metabolic
+145,52,222,94,92,98.4,None,high,high,no,low,respiratory
+130,100,77,93,75,102.0,Malaria,normal,high,yes,low,respiratory
+159,97,253,93,62,96.8,Hypertension,high,high,no,low,respiratory
+128,102,224,90,104,103.9,Diabetes,high,high,yes,low,respiratory
+165,61,267,90,53,101.9,Diabetes,high,high,yes,low,respiratory
+89,68,111,88,70,103.1,Skin allergy,normal,low,yes,low,respiratory
+124,82,161,96,105,98.4,Chikungunya,normal,normal,no,normal,infectious
+121,72,280,100,51,103.0,Skin allergy,high,normal,yes,normal,metabolic
+119,57,264,93,100,103.2,Diabetes,high,low,yes,low,respiratory
+134,71,107,95,108,99.3,Hypertension,normal,high,no,normal,general
+119,101,81,99,99,97.1,Typhoid,normal,high,no,normal,infectious
+108,84,135,93,58,97.1,Jaundice,normal,normal,no,low,respiratory
+124,78,214,99,99,97.7,Diabetes,high,normal,no,normal,metabolic
+129,78,70,99,90,101.1,HIV,low,normal,yes,normal,infectious
+120,90,262,88,54,101.5,HIV,high,high,yes,low,respiratory
+131,82,265,99,65,103.6,Dengue,high,normal,yes,normal,metabolic
+162,93,260,95,49,97.4,Chikungunya,high,high,no,normal,metabolic
+167,73,152,94,49,101.0,Diabetes,high,high,yes,low,respiratory
+132,73,173,100,54,100.8,Hypertension,normal,high,yes,normal,infectious
+131,75,140,98,80,98.4,Malaria,normal,normal,no,normal,infectious
+88,97,107,95,94,103.4,Malaria,normal,high,yes,normal,infectious
+118,99,126,99,102,98.1,Typhoid,normal,high,no,normal,infectious
+121,94,185,91,60,97.5,Malaria,high,high,no,low,respiratory
+142,61,242,95,56,102.6,Skin allergy,high,high,yes,normal,metabolic
+170,72,241,89,82,103.2,Dengue,high,high,yes,low,respiratory
+176,95,239,98,67,102.5,Hypertension,high,high,yes,normal,metabolic
+113,57,111,100,62,98.3,Diabetes,high,low,no,normal,metabolic
+88,73,201,97,92,100.0,Hypertension,high,high,yes,normal,metabolic
+101,89,82,89,84,99.5,Diabetes,high,normal,yes,low,respiratory
+152,76,256,94,54,97.4,Skin allergy,high,high,no,low,respiratory
+167,54,175,95,89,97.5,Hypertension,normal,high,no,normal,general
+166,87,106,100,61,99.7,None,normal,high,yes,normal,infectious
+100,83,99,92,66,97.7,Chikungunya,normal,normal,no,low,respiratory
+129,110,192,92,55,98.4,Hypertension,high,high,no,low,respiratory
+120,58,220,92,56,100.3,Dengue,high,low,yes,low,respiratory
+160,110,208,90,66,101.4,Typhoid,high,high,yes,low,respiratory
+128,103,204,88,48,97.1,Typhoid,high,high,no,low,respiratory
+118,91,113,100,98,101.1,None,normal,high,yes,normal,infectious
+148,106,220,96,82,101.3,Jaundice,high,high,yes,normal,metabolic
+146,65,266,100,96,98.7,Malaria,high,high,no,normal,metabolic
+173,53,100,95,98,100.1,Chikungunya,normal,high,yes,normal,infectious
+128,88,96,93,85,102.0,Skin allergy,normal,normal,yes,low,respiratory
+136,58,254,93,110,100.7,Skin allergy,high,low,yes,low,respiratory
+115,79,91,92,102,98.4,Malaria,normal,normal,no,low,respiratory
+91,68,158,97,98,98.4,Dengue,normal,normal,no,normal,infectious
+126,109,207,99,85,97.9,Dengue,high,high,no,normal,metabolic
+148,82,179,95,84,100.2,Malaria,normal,high,yes,normal,infectious
+135,82,177,91,72,100.9,None,normal,normal,yes,low,respiratory
+91,68,186,97,105,98.6,None,high,normal,no,normal,metabolic
+98,77,94,92,91,102.2,Skin allergy,normal,normal,yes,low,respiratory
+90,75,73,97,69,99.2,Jaundice,normal,low,no,normal,general
+94,74,189,95,80,102.7,Typhoid,high,normal,yes,normal,metabolic
+172,89,90,90,57,99.5,Skin allergy,normal,high,yes,low,respiratory
+156,110,153,100,63,98.0,Hypertension,normal,high,no,normal,general
+136,82,70,88,49,97.5,Skin allergy,low,normal,no,low,respiratory
+145,83,176,90,110,97.5,Typhoid,normal,high,no,low,respiratory
+125,60,160,97,83,101.0,Hypertension,normal,high,yes,normal,infectious
+150,84,185,99,83,100.1,None,high,high,yes,normal,metabolic
+132,71,232,89,98,100.9,None,high,normal,yes,low,respiratory
+161,80,127,98,74,101.9,Typhoid,normal,high,yes,normal,infectious
+146,60,194,98,93,97.6,Chikungunya,high,high,no,normal,metabolic
+89,86,239,89,69,96.6,Skin allergy,high,low,no,low,respiratory
+138,59,165,99,71,99.6,Typhoid,normal,low,yes,normal,infectious
+145,105,277,99,52,101.8,Hypertension,high,high,yes,normal,metabolic
+111,85,143,98,106,100.4,Skin allergy,normal,normal,yes,normal,infectious
+107,79,196,93,90,101.6,Jaundice,high,normal,yes,low,respiratory
+163,80,109,91,80,100.7,Chikungunya,normal,high,yes,low,respiratory
+123,99,133,99,71,101.7,Diabetes,high,high,yes,normal,metabolic
+125,80,149,96,80,98.7,Typhoid,normal,normal,no,normal,infectious
+171,84,157,94,89,103.7,Dengue,normal,high,yes,low,respiratory
+122,52,133,99,55,99.1,Diabetes,high,low,no,normal,metabolic
+168,66,251,95,72,98.0,Hypertension,high,high,no,normal,metabolic
+119,109,203,99,79,97.5,Typhoid,high,high,no,normal,metabolic
+179,87,121,91,51,101.5,Hypertension,normal,high,yes,low,respiratory
+113,90,119,88,57,99.6,Diabetes,high,high,yes,low,respiratory
+97,93,257,90,45,103.7,Dengue,high,high,yes,low,respiratory
+137,91,181,95,70,102.2,Jaundice,high,high,yes,normal,metabolic
+126,68,225,88,56,101.4,Chikungunya,high,normal,yes,low,respiratory
+153,97,245,88,67,99.6,Dengue,high,high,yes,low,respiratory
+89,103,161,100,108,97.9,Jaundice,normal,high,no,normal,general
+89,50,136,97,58,103.5,Skin allergy,normal,low,yes,normal,infectious
+121,79,224,96,108,103.2,Dengue,high,normal,yes,normal,metabolic
+149,79,129,91,59,99.0,Diabetes,high,high,no,low,respiratory
+167,66,243,90,46,102.0,Jaundice,high,high,yes,low,respiratory
+157,93,253,91,67,101.1,HIV,high,high,yes,low,respiratory
+139,82,143,89,96,101.5,Dengue,normal,normal,yes,low,respiratory
+102,80,142,91,45,98.5,Chikungunya,normal,normal,no,low,respiratory
+142,98,128,93,83,100.9,Typhoid,normal,high,yes,low,respiratory
+86,66,227,93,75,97.0,Malaria,high,low,no,low,respiratory
+144,69,100,94,109,103.4,Jaundice,normal,high,yes,low,respiratory
+173,57,223,92,92,101.1,Chikungunya,high,high,yes,low,respiratory
+102,80,99,95,92,99.6,Hypertension,normal,high,yes,normal,infectious
+145,98,197,100,72,102.2,Typhoid,high,high,yes,normal,metabolic
+95,83,174,96,91,97.1,Typhoid,normal,normal,no,normal,infectious
+99,53,272,96,109,98.0,Hypertension,high,high,no,normal,metabolic
+104,60,143,96,101,97.4,Chikungunya,normal,low,no,normal,infectious
+176,87,185,89,110,99.8,None,high,high,yes,low,respiratory
+143,58,191,94,103,100.7,Hypertension,high,high,yes,low,respiratory
+144,93,266,92,47,99.5,None,high,high,yes,low,respiratory
+180,63,208,89,50,99.7,Malaria,high,high,yes,low,respiratory
+154,53,77,95,49,98.7,Dengue,normal,high,no,normal,infectious
+102,99,224,99,98,99.3,HIV,high,high,no,normal,metabolic
+142,105,156,94,55,101.6,Hypertension,normal,high,yes,low,respiratory
+102,91,280,93,60,97.8,Hypertension,high,high,no,low,respiratory
+135,83,92,99,73,102.8,None,normal,normal,yes,normal,infectious
+123,79,232,99,99,100.5,Chikungunya,high,normal,yes,normal,metabolic
+116,79,148,90,80,97.9,Malaria,normal,normal,no,low,respiratory
+89,101,229,94,47,98.3,Malaria,high,high,no,low,respiratory
+97,88,68,95,51,98.3,None,low,normal,no,normal,general
+136,78,119,96,72,102.2,None,normal,normal,yes,normal,infectious
+102,82,134,91,85,100.8,Skin allergy,normal,normal,yes,low,respiratory
+115,69,96,98,73,99.6,Jaundice,normal,normal,yes,normal,infectious
+92,85,211,99,67,101.2,HIV,high,normal,yes,normal,metabolic
+156,81,72,93,93,102.4,Skin allergy,normal,high,yes,low,respiratory
+174,76,164,90,83,99.3,Hypertension,normal,high,no,low,respiratory
+145,65,277,91,83,102.9,Dengue,high,high,yes,low,respiratory
+144,108,74,96,97,103.8,Hypertension,normal,high,yes,normal,infectious
+152,58,159,91,77,98.0,Malaria,normal,high,no,low,respiratory
+142,104,154,89,69,96.9,HIV,normal,high,no,low,respiratory
+171,88,214,88,54,97.9,Typhoid,high,high,no,low,respiratory
+177,92,203,91,106,98.1,Skin allergy,high,high,no,low,respiratory
+123,108,63,91,69,103.7,Malaria,low,high,yes,low,respiratory
+180,98,182,91,71,99.5,Chikungunya,high,high,yes,low,respiratory
+155,70,258,92,93,100.0,Skin allergy,high,high,yes,low,respiratory
+124,66,152,96,108,100.0,Diabetes,high,normal,yes,normal,metabolic
+125,108,112,93,85,99.6,Typhoid,normal,high,yes,low,respiratory
+113,97,97,88,78,100.6,Typhoid,normal,high,yes,low,respiratory
+159,96,166,92,64,98.0,Chikungunya,normal,high,no,low,respiratory
+133,86,273,91,108,100.6,Skin allergy,high,normal,yes,low,respiratory
+117,98,270,95,107,100.0,Skin allergy,high,high,yes,normal,metabolic
+106,58,244,96,107,97.9,Hypertension,high,high,no,normal,metabolic
+167,53,194,88,54,103.6,None,high,high,yes,low,respiratory
+85,76,95,98,74,97.0,Dengue,normal,low,no,normal,infectious
+86,63,189,95,92,97.0,Typhoid,high,low,no,normal,metabolic
+146,92,184,88,45,100.5,HIV,high,high,yes,low,respiratory
+86,51,195,99,80,100.5,Jaundice,high,low,yes,normal,metabolic
+87,82,268,99,100,102.5,Dengue,high,low,yes,normal,metabolic
+98,108,84,96,64,98.3,Typhoid,normal,high,no,normal,infectious
+152,66,268,93,79,102.5,Malaria,high,high,yes,low,respiratory
+132,75,177,97,76,103.9,Chikungunya,normal,normal,yes,normal,infectious
+123,93,271,89,49,97.2,HIV,high,high,no,low,respiratory
+133,85,181,88,46,101.8,Malaria,high,normal,yes,low,respiratory
+148,104,171,98,87,100.7,Malaria,normal,high,yes,normal,infectious
+152,108,70,91,72,103.3,Typhoid,low,high,yes,low,respiratory
+145,67,71,89,80,103.2,Typhoid,normal,high,yes,low,respiratory
+169,52,105,93,47,103.7,Typhoid,normal,high,yes,low,respiratory
+103,98,270,99,95,103.5,Jaundice,high,high,yes,normal,metabolic
+105,86,121,97,94,101.6,Hypertension,normal,high,yes,normal,infectious
+127,74,253,99,62,102.4,Malaria,high,normal,yes,normal,metabolic
+149,97,148,88,57,99.8,Malaria,normal,high,yes,low,respiratory
+128,88,256,97,95,103.8,Skin allergy,high,normal,yes,normal,metabolic
+88,90,129,100,102,100.2,Skin allergy,normal,high,yes,normal,infectious
+155,110,156,94,68,101.6,HIV,normal,high,yes,low,respiratory
+95,99,218,92,76,101.8,Malaria,high,high,yes,low,respiratory
+119,59,157,99,64,102.0,Skin allergy,normal,low,yes,normal,infectious
+131,56,83,88,84,99.8,Jaundice,normal,low,yes,low,respiratory
+98,58,82,90,100,99.9,Hypertension,normal,high,yes,low,respiratory
+150,76,86,88,56,99.2,Malaria,normal,high,no,low,respiratory
+161,88,260,93,94,96.6,HIV,high,high,no,low,respiratory
+134,99,81,99,76,100.8,Dengue,normal,high,yes,normal,infectious
+172,74,103,90,79,98.8,Diabetes,high,high,no,low,respiratory
+103,54,102,94,80,99.7,Diabetes,high,low,yes,low,respiratory
+94,73,124,91,108,101.0,Chikungunya,normal,normal,yes,low,respiratory
+143,56,94,92,45,103.6,Skin allergy,normal,high,yes,low,respiratory
+164,74,265,93,101,99.0,Typhoid,high,high,no,low,respiratory
+102,69,142,97,70,100.1,Dengue,normal,normal,yes,normal,infectious
+135,70,134,99,107,103.8,Chikungunya,normal,normal,yes,normal,infectious
+126,74,131,100,95,99.2,Typhoid,normal,normal,no,normal,infectious
+110,87,199,90,48,103.6,Diabetes,high,normal,yes,low,respiratory
+175,63,172,100,82,102.7,Malaria,normal,high,yes,normal,infectious
+137,93,187,90,83,98.3,Dengue,high,high,no,low,respiratory
+176,77,262,94,54,99.9,Typhoid,high,high,yes,low,respiratory
+146,87,162,96,109,103.4,HIV,normal,high,yes,normal,infectious
+154,52,262,93,55,97.3,Chikungunya,high,high,no,low,respiratory
+169,92,150,90,50,100.7,HIV,normal,high,yes,low,respiratory
+127,100,170,89,46,97.2,Chikungunya,normal,high,no,low,respiratory
+150,97,192,96,73,99.8,HIV,high,high,yes,normal,metabolic
+144,99,233,97,109,97.6,None,high,high,no,normal,metabolic
+146,56,135,94,55,97.4,Dengue,normal,high,no,low,respiratory
+129,69,147,95,71,100.4,Skin allergy,normal,normal,yes,normal,infectious
+145,56,172,99,102,98.9,Jaundice,normal,high,no,normal,general
+90,101,241,89,47,102.9,Malaria,high,high,yes,low,respiratory
+171,101,102,99,76,100.4,Hypertension,normal,high,yes,normal,infectious
+105,71,203,94,104,98.2,HIV,high,normal,no,low,respiratory
+165,61,107,98,100,99.5,Typhoid,normal,high,yes,normal,infectious
+110,78,211,94,94,96.5,Chikungunya,high,normal,no,low,respiratory
+111,67,252,99,53,100.8,Hypertension,high,high,yes,normal,metabolic
+108,73,143,91,103,97.4,Diabetes,high,normal,no,low,respiratory
+152,90,140,97,94,101.1,Typhoid,normal,high,yes,normal,infectious
+99,72,150,95,67,102.6,Jaundice,normal,normal,yes,normal,infectious
+163,87,81,98,62,98.8,Chikungunya,normal,high,no,normal,infectious
+124,57,106,93,63,100.3,HIV,normal,low,yes,low,respiratory
+161,58,207,94,99,97.9,Hypertension,high,high,no,low,respiratory
+173,108,225,90,66,100.2,Dengue,high,high,yes,low,respiratory
+108,70,275,95,51,103.0,None,high,normal,yes,normal,metabolic
+147,58,109,94,109,101.4,HIV,normal,high,yes,low,respiratory
+172,81,166,99,101,100.2,Malaria,normal,high,yes,normal,infectious
+157,51,263,100,73,98.7,Jaundice,high,high,no,normal,metabolic
+113,84,133,90,103,100.7,Diabetes,high,normal,yes,low,respiratory
+155,82,88,97,59,98.5,Hypertension,normal,high,no,normal,general
+131,84,270,100,50,102.2,Diabetes,high,normal,yes,normal,metabolic
+154,63,168,89,76,98.7,None,normal,high,no,low,respiratory
+142,66,149,89,101,103.0,Malaria,normal,high,yes,low,respiratory
+115,63,267,99,89,103.0,Typhoid,high,normal,yes,normal,metabolic
+165,77,102,97,62,102.4,Chikungunya,normal,high,yes,normal,infectious
+92,86,149,96,80,101.0,Dengue,normal,normal,yes,normal,infectious
+126,95,134,92,79,103.6,Hypertension,normal,high,yes,low,respiratory
+171,102,84,90,97,103.4,Jaundice,normal,high,yes,low,respiratory
+168,58,239,90,76,97.6,Skin allergy,high,high,no,low,respiratory
+116,98,275,98,95,100.2,Typhoid,high,high,yes,normal,metabolic
+165,67,220,94,93,99.9,Malaria,high,high,yes,low,respiratory
+136,82,251,92,92,99.9,Diabetes,high,normal,yes,low,respiratory
+126,87,60,100,56,102.0,Diabetes,high,normal,yes,normal,metabolic
+166,92,238,93,53,102.5,HIV,high,high,yes,low,respiratory
+112,77,271,91,108,98.5,Jaundice,high,normal,no,low,respiratory
+128,85,207,90,107,102.4,None,high,normal,yes,low,respiratory
+90,56,220,100,103,96.6,Dengue,high,low,no,normal,metabolic
+141,79,60,94,70,104.0,Dengue,low,high,yes,low,respiratory
+168,69,100,92,56,101.4,Jaundice,normal,high,yes,low,respiratory
+95,73,230,98,66,96.9,Jaundice,high,normal,no,normal,metabolic
+177,94,253,91,99,101.4,Malaria,high,high,yes,low,respiratory
+85,63,182,89,61,101.0,Hypertension,high,high,yes,low,respiratory
+172,78,62,88,88,102.6,HIV,low,high,yes,low,respiratory
+173,58,182,89,74,99.4,Malaria,high,high,no,low,respiratory
+98,70,154,92,62,99.4,Dengue,normal,normal,no,low,respiratory
+167,93,96,89,46,101.1,Dengue,normal,high,yes,low,respiratory
+141,72,244,91,64,103.4,Typhoid,high,high,yes,low,respiratory
+172,78,280,91,56,103.2,Dengue,high,high,yes,low,respiratory
+100,87,246,94,89,103.7,Skin allergy,high,normal,yes,low,respiratory
+102,65,130,98,55,98.4,Typhoid,normal,normal,no,normal,infectious
+161,96,215,92,48,102.9,Jaundice,high,high,yes,low,respiratory
+111,83,215,96,69,102.1,Jaundice,high,normal,yes,normal,metabolic
+167,53,260,100,75,100.2,Malaria,high,high,yes,normal,metabolic
+115,81,223,97,54,100.5,None,high,normal,yes,normal,metabolic
+131,109,141,90,94,103.0,Typhoid,normal,high,yes,low,respiratory
+138,73,199,98,67,102.2,Malaria,high,normal,yes,normal,metabolic
+87,87,77,88,78,98.1,None,normal,low,no,low,respiratory
+135,82,133,98,109,102.3,HIV,normal,normal,yes,normal,infectious
+174,75,81,98,64,98.6,Jaundice,normal,high,no,normal,general
+95,82,112,100,64,100.5,HIV,normal,normal,yes,normal,infectious
+160,90,255,98,53,98.8,HIV,high,high,no,normal,metabolic
+178,104,121,88,76,97.1,HIV,normal,high,no,low,respiratory
+99,79,216,97,52,98.8,Dengue,high,normal,no,normal,metabolic
+100,50,241,90,46,97.7,Skin allergy,high,low,no,low,respiratory
+151,83,260,99,78,97.8,Dengue,high,high,no,normal,metabolic
+180,99,128,99,60,102.3,None,normal,high,yes,normal,infectious
+127,101,169,92,53,98.5,Typhoid,normal,high,no,low,respiratory
+165,54,187,95,110,99.2,Diabetes,high,high,no,normal,metabolic
+157,60,154,90,77,102.3,Typhoid,normal,high,yes,low,respiratory
+171,96,89,91,110,96.5,None,normal,high,no,low,respiratory
+116,52,180,93,94,103.4,Dengue,high,low,yes,low,respiratory
+89,85,265,99,98,98.2,Chikungunya,high,low,no,normal,metabolic
+138,108,244,93,79,102.7,Typhoid,high,high,yes,low,respiratory
+132,57,188,98,51,97.8,Hypertension,high,high,no,normal,metabolic
+90,75,77,95,81,102.3,Jaundice,normal,low,yes,normal,infectious
+126,55,201,95,46,99.3,Jaundice,high,low,no,normal,metabolic
+157,100,137,99,76,100.0,Typhoid,normal,high,yes,normal,infectious
+148,99,258,91,76,97.6,HIV,high,high,no,low,respiratory
+88,64,198,93,46,103.6,None,high,low,yes,low,respiratory
+169,74,277,99,84,97.3,Hypertension,high,high,no,normal,metabolic
+115,76,185,88,63,101.8,Malaria,high,normal,yes,low,respiratory
+90,108,119,96,97,101.8,Skin allergy,normal,high,yes,normal,infectious
+143,97,81,97,57,100.3,HIV,normal,high,yes,normal,infectious
+94,87,205,88,100,101.5,Dengue,high,normal,yes,low,respiratory
+115,68,126,93,95,101.8,Skin allergy,normal,normal,yes,low,respiratory
+125,78,129,91,54,103.6,Dengue,normal,normal,yes,low,respiratory
+159,56,99,89,66,99.9,Skin allergy,normal,high,yes,low,respiratory
+137,57,197,93,71,99.9,Diabetes,high,low,yes,low,respiratory
+118,104,90,89,65,102.6,Jaundice,normal,high,yes,low,respiratory
+175,94,214,88,72,102.8,Skin allergy,high,high,yes,low,respiratory
+103,55,242,91,90,99.5,None,high,low,yes,low,respiratory
+171,69,126,90,48,103.6,Diabetes,high,high,yes,low,respiratory
+156,97,200,91,57,100.0,Dengue,high,high,yes,low,respiratory
+100,50,75,100,73,97.5,HIV,normal,low,no,normal,general
+132,93,221,98,55,100.9,Jaundice,high,high,yes,normal,metabolic
+94,51,76,91,101,102.6,Malaria,normal,low,yes,low,respiratory
+127,57,70,95,51,97.8,Typhoid,low,low,no,normal,infectious
+140,102,245,94,108,96.7,HIV,high,high,no,low,respiratory
+107,72,114,90,80,98.6,Dengue,normal,normal,no,low,respiratory
+89,89,218,97,76,101.4,Diabetes,high,low,yes,normal,metabolic
+137,106,200,95,52,97.2,HIV,high,high,no,normal,metabolic
+102,76,111,98,76,101.2,Hypertension,normal,high,yes,normal,infectious
+87,74,260,99,90,100.1,Diabetes,high,low,yes,normal,metabolic
+129,108,204,96,86,99.4,Dengue,high,high,no,normal,metabolic
+88,70,212,91,48,103.2,Jaundice,high,low,yes,low,respiratory
+92,101,180,96,90,102.3,Chikungunya,high,high,yes,normal,metabolic
+105,56,123,98,75,98.5,None,normal,low,no,normal,general
+113,86,276,100,94,99.2,Dengue,high,normal,no,normal,metabolic
+107,65,211,93,90,103.4,None,high,normal,yes,low,respiratory
+175,94,150,97,63,100.7,Chikungunya,normal,high,yes,normal,infectious
+148,84,139,90,107,96.8,None,normal,high,no,low,respiratory
+114,88,116,88,106,96.5,Typhoid,normal,normal,no,low,respiratory
+110,101,93,93,67,103.4,Skin allergy,normal,high,yes,low,respiratory
+92,51,97,97,63,102.3,Hypertension,normal,high,yes,normal,infectious
+131,54,155,99,95,100.9,Skin allergy,normal,low,yes,normal,infectious
+123,70,94,90,100,102.4,Diabetes,high,normal,yes,low,respiratory
+168,70,104,99,90,98.2,Typhoid,normal,high,no,normal,infectious
+107,74,138,99,82,97.5,None,normal,normal,no,normal,general
+174,110,206,94,49,97.9,Skin allergy,high,high,no,low,respiratory
+163,64,223,97,58,103.5,Dengue,high,high,yes,normal,metabolic
+127,97,79,91,89,103.9,Dengue,normal,high,yes,low,respiratory
+166,106,82,99,87,99.8,Jaundice,normal,high,yes,normal,infectious
+111,65,237,89,89,98.4,Malaria,high,normal,no,low,respiratory
+177,50,72,94,101,102.0,Dengue,normal,high,yes,low,respiratory
+137,81,156,93,93,97.3,Diabetes,high,normal,no,low,respiratory
+158,91,254,98,73,97.7,Malaria,high,high,no,normal,metabolic
+89,68,65,93,78,103.6,Malaria,low,low,yes,low,respiratory
+128,60,156,90,54,100.6,Malaria,normal,low,yes,low,respiratory
+128,88,217,95,48,99.7,Dengue,high,normal,yes,normal,metabolic
+162,106,171,90,51,97.3,Chikungunya,normal,high,no,low,respiratory
+109,76,238,96,78,101.5,Jaundice,high,normal,yes,normal,metabolic
+115,56,72,94,107,97.7,Skin allergy,normal,low,no,low,respiratory
+85,77,82,92,106,98.0,None,normal,low,no,low,respiratory
+111,60,223,92,55,100.1,Malaria,high,low,yes,low,respiratory
+124,100,161,95,107,103.2,Jaundice,normal,high,yes,normal,infectious
+96,91,199,94,68,99.3,HIV,high,high,no,low,respiratory
+132,61,174,88,78,99.8,Jaundice,normal,normal,yes,low,respiratory
+113,103,128,97,52,97.6,Malaria,normal,high,no,normal,infectious
+95,92,148,100,97,103.8,Typhoid,normal,high,yes,normal,infectious
+114,85,75,94,98,103.7,Diabetes,high,normal,yes,low,respiratory
+158,106,120,95,83,97.1,None,normal,high,no,normal,general
+149,86,192,100,63,97.4,Diabetes,high,high,no,normal,metabolic
+107,110,102,91,69,97.4,HIV,normal,high,no,low,respiratory
+95,93,171,91,63,102.8,Jaundice,normal,high,yes,low,respiratory
+125,108,246,100,53,97.2,Hypertension,high,high,no,normal,metabolic
+135,85,143,92,103,103.4,None,normal,normal,yes,low,respiratory
+174,89,210,96,98,97.3,Dengue,high,high,no,normal,metabolic
+103,86,210,97,57,103.4,Typhoid,high,normal,yes,normal,metabolic
+97,100,133,96,89,103.1,Jaundice,normal,high,yes,normal,infectious
+134,91,184,97,105,96.8,Jaundice,high,high,no,normal,metabolic
+136,59,218,97,96,96.8,Skin allergy,high,low,no,normal,metabolic
+173,65,72,99,105,103.4,Skin allergy,normal,high,yes,normal,infectious
+87,71,269,100,83,98.8,Diabetes,high,low,no,normal,metabolic
+174,93,85,91,62,98.8,Diabetes,high,high,no,low,respiratory
+126,67,246,94,56,97.9,Chikungunya,high,normal,no,low,respiratory
+137,97,184,100,92,102.7,Hypertension,high,high,yes,normal,metabolic
+105,54,139,99,109,99.5,Hypertension,normal,high,yes,normal,infectious
+157,51,104,91,70,102.8,Chikungunya,normal,high,yes,low,respiratory
+89,79,72,93,70,98.6,Diabetes,high,low,no,low,respiratory
+149,75,222,89,48,98.3,Diabetes,high,high,no,low,respiratory
+161,78,105,95,89,99.1,Jaundice,normal,high,no,normal,general
+180,103,236,89,81,96.7,None,high,high,no,low,respiratory
+105,104,206,100,72,102.9,Chikungunya,high,high,yes,normal,metabolic
+171,63,128,98,97,100.3,None,normal,high,yes,normal,infectious
+145,108,93,98,67,101.0,None,normal,high,yes,normal,infectious
+113,66,215,100,84,101.8,Jaundice,high,normal,yes,normal,metabolic
+139,107,156,93,103,98.4,Diabetes,high,high,no,low,respiratory
+123,93,193,97,95,100.9,None,high,high,yes,normal,metabolic
+150,92,275,93,81,98.7,Malaria,high,high,no,low,respiratory
+146,54,146,92,86,103.0,Jaundice,normal,high,yes,low,respiratory
+168,95,226,92,69,97.6,Chikungunya,high,high,no,low,respiratory
+92,101,279,100,96,101.5,Dengue,high,high,yes,normal,metabolic
+177,51,227,95,82,98.4,HIV,high,high,no,normal,metabolic
+136,74,248,88,69,99.1,Chikungunya,high,normal,no,low,respiratory
+172,84,223,100,105,103.3,Skin allergy,high,high,yes,normal,metabolic
+149,69,276,90,68,98.7,Diabetes,high,high,no,low,respiratory
+101,97,126,99,68,103.6,Skin allergy,normal,high,yes,normal,infectious
+168,55,116,93,73,102.1,Jaundice,normal,high,yes,low,respiratory
+138,100,144,93,78,100.9,Diabetes,high,high,yes,low,respiratory
+100,80,73,98,54,100.0,Chikungunya,normal,normal,yes,normal,infectious
+149,57,234,94,83,99.6,Dengue,high,high,yes,low,respiratory
+102,62,147,94,103,97.6,Dengue,normal,normal,no,low,respiratory
+95,81,145,98,67,98.9,None,normal,normal,no,normal,general
+85,78,130,91,66,100.8,Dengue,normal,low,yes,low,respiratory
+147,100,255,100,56,97.5,HIV,high,high,no,normal,metabolic
+166,77,163,94,106,99.4,None,normal,high,no,low,respiratory
+153,62,247,93,46,103.2,Hypertension,high,high,yes,low,respiratory
+109,51,233,88,76,98.2,Skin allergy,high,low,no,low,respiratory
+124,58,86,94,109,100.9,Dengue,normal,low,yes,low,respiratory
+93,102,71,92,82,99.9,Hypertension,normal,high,yes,low,respiratory
+161,83,146,94,62,99.1,Diabetes,high,high,no,low,respiratory
+130,98,108,90,96,96.6,Chikungunya,normal,high,no,low,respiratory
+178,58,114,99,47,100.9,Dengue,normal,high,yes,normal,infectious
+100,73,242,98,49,99.3,Jaundice,high,normal,no,normal,metabolic
+153,89,72,97,51,101.5,None,normal,high,yes,normal,infectious
+91,94,89,94,101,99.4,Hypertension,normal,high,no,low,respiratory
+117,80,239,90,71,101.7,None,high,normal,yes,low,respiratory
+123,76,229,89,79,101.2,Dengue,high,normal,yes,low,respiratory
+138,103,86,96,60,98.6,Malaria,normal,high,no,normal,infectious
+148,62,215,91,78,102.7,Chikungunya,high,high,yes,low,respiratory
+130,95,164,92,65,96.8,Diabetes,high,high,no,low,respiratory
+111,94,183,93,75,96.5,Malaria,high,high,no,low,respiratory
+99,103,206,98,108,97.6,Malaria,high,high,no,normal,metabolic
+150,54,245,99,57,103.3,Chikungunya,high,high,yes,normal,metabolic
+143,68,127,95,51,97.2,Dengue,normal,high,no,normal,infectious
+90,104,134,93,85,99.7,Malaria,normal,high,yes,low,respiratory
+97,104,254,88,46,102.9,Dengue,high,high,yes,low,respiratory
+127,72,172,97,79,103.1,Malaria,normal,normal,yes,normal,infectious
+132,102,147,90,59,99.5,Diabetes,high,high,yes,low,respiratory
+119,103,158,99,106,102.5,Dengue,normal,high,yes,normal,infectious
+99,58,238,99,52,103.9,Dengue,high,low,yes,normal,metabolic
+98,76,211,95,101,97.9,HIV,high,normal,no,normal,metabolic
+130,89,67,98,61,100.1,Diabetes,high,normal,yes,normal,metabolic
+99,106,165,95,50,97.0,Skin allergy,normal,high,no,normal,general
+86,95,233,96,73,103.8,Skin allergy,high,high,yes,normal,metabolic
+151,83,236,99,57,99.7,Chikungunya,high,high,yes,normal,metabolic
+146,72,229,98,94,97.6,Hypertension,high,high,no,normal,metabolic
+163,53,62,98,65,100.3,Diabetes,high,high,yes,normal,metabolic
+148,105,102,89,107,98.9,Skin allergy,normal,high,no,low,respiratory
+120,53,189,91,93,99.5,Chikungunya,high,low,yes,low,respiratory
+95,79,173,100,102,97.2,Diabetes,high,normal,no,normal,metabolic
+142,70,90,95,47,97.3,HIV,normal,high,no,normal,general
+89,85,200,88,56,102.4,Typhoid,high,low,yes,low,respiratory
+166,69,190,96,71,101.4,Diabetes,high,high,yes,normal,metabolic
+128,73,271,88,73,102.8,Skin allergy,high,normal,yes,low,respiratory
+156,99,218,97,105,101.9,Skin allergy,high,high,yes,normal,metabolic
+176,78,89,89,73,96.5,Skin allergy,normal,high,no,low,respiratory
+166,101,134,96,92,101.8,None,normal,high,yes,normal,infectious
+106,81,95,99,97,97.3,Typhoid,normal,normal,no,normal,infectious
+110,62,90,94,72,99.9,Chikungunya,normal,normal,yes,low,respiratory
+176,71,87,100,98,96.8,Typhoid,normal,high,no,normal,infectious
+100,99,175,95,109,97.5,Diabetes,high,high,no,normal,metabolic
+85,83,248,88,100,102.8,Diabetes,high,low,yes,low,respiratory
+150,99,105,99,67,102.0,Dengue,normal,high,yes,normal,infectious
+98,74,228,97,86,100.3,HIV,high,normal,yes,normal,metabolic
+138,88,237,100,76,98.6,Skin allergy,high,normal,no,normal,metabolic
+122,78,266,90,62,99.6,Hypertension,high,high,yes,low,respiratory
+123,103,239,96,85,101.8,Hypertension,high,high,yes,normal,metabolic
+165,63,111,91,82,101.6,Dengue,normal,high,yes,low,respiratory
+175,91,105,96,86,101.8,Skin allergy,normal,high,yes,normal,infectious
+156,80,209,97,98,101.6,Hypertension,high,high,yes,normal,metabolic
+121,106,276,94,46,100.4,None,high,high,yes,low,respiratory
+133,59,73,98,52,98.0,Dengue,normal,low,no,normal,infectious
+121,93,124,90,52,101.7,Jaundice,normal,high,yes,low,respiratory
+111,98,198,88,90,102.6,Malaria,high,high,yes,low,respiratory
+163,105,232,99,73,102.1,Hypertension,high,high,yes,normal,metabolic
+134,65,190,100,81,101.7,None,high,normal,yes,normal,metabolic
+133,74,166,100,85,103.7,None,normal,normal,yes,normal,infectious
+86,97,124,91,101,102.7,Skin allergy,normal,high,yes,low,respiratory
+160,84,249,97,70,102.3,Chikungunya,high,high,yes,normal,metabolic
+122,78,105,98,54,97.9,Dengue,normal,normal,no,normal,infectious
+179,82,90,94,50,99.7,Hypertension,normal,high,yes,low,respiratory
+118,58,101,97,77,96.5,Diabetes,high,low,no,normal,metabolic
+175,109,99,88,64,103.5,Typhoid,normal,high,yes,low,respiratory
+91,99,220,97,83,100.2,Typhoid,high,high,yes,normal,metabolic
+155,72,78,100,85,100.4,Dengue,normal,high,yes,normal,infectious
+151,54,261,96,65,99.6,Hypertension,high,high,yes,normal,metabolic
+136,55,149,91,72,101.5,Skin allergy,normal,low,yes,low,respiratory
+131,68,115,100,105,104.0,None,normal,normal,yes,normal,infectious
+99,92,148,95,75,103.3,Typhoid,normal,high,yes,normal,infectious
+164,65,70,98,86,99.4,Malaria,low,high,no,normal,infectious
+134,66,198,99,81,96.7,Hypertension,high,high,no,normal,metabolic
+132,82,265,96,102,100.2,Jaundice,high,normal,yes,normal,metabolic
+168,62,142,96,55,103.6,Dengue,normal,high,yes,normal,infectious
+153,84,61,98,53,98.1,Chikungunya,low,high,no,normal,infectious
+172,77,273,89,71,100.5,HIV,high,high,yes,low,respiratory
+167,102,78,99,64,96.7,Skin allergy,normal,high,no,normal,general
+89,55,78,88,67,102.5,Hypertension,normal,high,yes,low,respiratory
+94,86,270,91,78,99.6,Diabetes,high,normal,yes,low,respiratory
+165,75,170,93,47,99.4,Malaria,normal,high,no,low,respiratory
+153,50,224,99,53,102.2,Typhoid,high,high,yes,normal,metabolic
+90,94,277,89,90,103.5,Malaria,high,high,yes,low,respiratory
+122,100,235,92,56,98.6,Diabetes,high,high,no,low,respiratory
+133,75,270,98,48,100.1,Hypertension,high,high,yes,normal,metabolic
+113,58,251,94,82,103.7,Dengue,high,low,yes,low,respiratory
+123,93,263,99,92,103.7,None,high,high,yes,normal,metabolic
+155,105,202,90,60,96.8,Typhoid,high,high,no,low,respiratory
+161,75,197,96,55,98.8,Skin allergy,high,high,no,normal,metabolic
+112,76,225,96,63,97.7,Chikungunya,high,normal,no,normal,metabolic
+163,103,124,91,59,97.9,Typhoid,normal,high,no,low,respiratory
+91,104,252,96,104,101.3,Malaria,high,high,yes,normal,metabolic
+122,92,77,92,57,98.0,Typhoid,normal,high,no,low,respiratory
+147,110,144,93,61,101.5,Chikungunya,normal,high,yes,low,respiratory
+97,68,218,89,69,98.9,Diabetes,high,normal,no,low,respiratory
+127,89,228,92,64,100.7,Skin allergy,high,normal,yes,low,respiratory
+125,77,103,88,85,98.3,Chikungunya,normal,normal,no,low,respiratory
+176,97,224,94,80,102.8,Dengue,high,high,yes,low,respiratory
+171,96,144,95,104,99.8,Jaundice,normal,high,yes,normal,infectious
+147,85,87,90,55,102.8,Dengue,normal,high,yes,low,respiratory
+153,62,127,99,54,102.0,None,normal,high,yes,normal,infectious
+149,90,67,97,96,102.3,Chikungunya,low,high,yes,normal,infectious
+89,85,126,96,105,101.4,Dengue,normal,low,yes,normal,infectious
+131,75,117,100,82,97.5,Hypertension,normal,high,no,normal,general
+150,55,161,93,109,96.6,Chikungunya,normal,high,no,low,respiratory
+163,93,102,100,110,97.6,Dengue,normal,high,no,normal,infectious
+107,86,204,98,63,102.0,Diabetes,high,normal,yes,normal,metabolic
+130,52,116,100,107,98.2,Jaundice,normal,low,no,normal,general
+132,64,70,98,71,100.4,Skin allergy,low,normal,yes,normal,infectious
+134,80,176,88,50,103.9,Skin allergy,normal,normal,yes,low,respiratory
+98,95,193,98,80,102.8,Jaundice,high,high,yes,normal,metabolic
+159,84,205,90,93,101.4,Skin allergy,high,high,yes,low,respiratory
+160,91,273,89,77,99.3,Chikungunya,high,high,no,low,respiratory
+151,75,150,93,107,102.4,Typhoid,normal,high,yes,low,respiratory
+85,82,95,95,66,98.2,Hypertension,normal,high,no,normal,general
+167,67,114,90,68,97.7,Typhoid,normal,high,no,low,respiratory
+176,102,90,98,74,99.6,Skin allergy,normal,high,yes,normal,infectious
+177,57,183,98,106,100.1,Typhoid,high,high,yes,normal,metabolic
+105,91,273,94,47,98.3,Dengue,high,high,no,low,respiratory
+158,87,101,90,110,96.8,Typhoid,normal,high,no,low,respiratory
+103,53,102,92,68,100.4,HIV,normal,low,yes,low,respiratory
+161,86,223,88,81,103.6,Chikungunya,high,high,yes,low,respiratory
+142,88,180,95,66,98.1,HIV,high,high,no,normal,metabolic
+161,59,263,97,68,101.2,Hypertension,high,high,yes,normal,metabolic
+118,60,245,98,88,103.4,Typhoid,high,low,yes,normal,metabolic
+160,54,118,94,94,97.5,None,normal,high,no,low,respiratory
+110,83,280,96,98,102.7,Typhoid,high,normal,yes,normal,metabolic
+97,61,181,97,49,103.1,Hypertension,high,high,yes,normal,metabolic
+149,98,90,89,106,101.4,Typhoid,normal,high,yes,low,respiratory
+154,102,60,100,100,100.4,Skin allergy,low,high,yes,normal,infectious
+90,94,195,94,74,103.5,Diabetes,high,high,yes,low,respiratory
+133,72,210,100,57,99.7,Jaundice,high,normal,yes,normal,metabolic
+146,99,119,89,81,101.0,Hypertension,normal,high,yes,low,respiratory
+137,66,108,88,45,100.8,Malaria,normal,normal,yes,low,respiratory
+151,50,156,98,71,101.7,Skin allergy,normal,high,yes,normal,infectious
+137,73,87,90,99,101.4,Jaundice,normal,normal,yes,low,respiratory
+118,104,197,94,91,101.1,HIV,high,high,yes,low,respiratory
+111,76,201,100,106,97.8,Hypertension,high,high,no,normal,metabolic
+156,80,124,92,89,102.3,HIV,normal,high,yes,low,respiratory
+179,58,278,98,60,102.1,Diabetes,high,high,yes,normal,metabolic
+174,110,101,89,72,100.3,Skin allergy,normal,high,yes,low,respiratory
+155,89,238,98,51,97.7,None,high,high,no,normal,metabolic
+96,102,97,95,100,97.2,Jaundice,normal,high,no,normal,general
+113,73,80,97,49,101.9,HIV,normal,normal,yes,normal,infectious
+163,91,193,92,52,103.6,Dengue,high,high,yes,low,respiratory
+166,81,172,88,70,102.9,Hypertension,normal,high,yes,low,respiratory
+121,62,68,100,110,100.4,Chikungunya,low,normal,yes,normal,infectious
+163,60,232,88,91,98.3,None,high,high,no,low,respiratory
+105,55,130,100,96,99.1,HIV,normal,low,no,normal,general
+136,87,111,96,46,102.0,Malaria,normal,normal,yes,normal,infectious
+96,85,132,99,89,99.1,Jaundice,normal,normal,no,normal,general
+113,88,109,95,96,100.8,Jaundice,normal,normal,yes,normal,infectious
+107,76,189,89,54,100.3,Skin allergy,high,normal,yes,low,respiratory
+99,101,191,92,77,101.7,HIV,high,high,yes,low,respiratory
+157,80,257,91,88,103.7,Diabetes,high,high,yes,low,respiratory
+172,79,210,88,106,97.4,Malaria,high,high,no,low,respiratory
+133,90,261,91,74,102.5,HIV,high,high,yes,low,respiratory
+130,83,197,88,78,98.4,Malaria,high,normal,no,low,respiratory
